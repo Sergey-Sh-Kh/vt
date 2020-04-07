@@ -1,0 +1,35 @@
+/* ------ Стили для mobily1-slider
+-----------------------------------------------*/
+
+#content {
+width:800px;
+margin:100px auto 0;
+}
+
+.1-slider {
+float:left;
+width:800px;
+height:741px;
+position:relative;
+padding-bottom:26px;
+/*background:url(../gfx/bottom_shadow.png) no-repeat bottom center;*/
+}
+
+#slider6 .sliderArrows{
+	left: 9999px;
+	position: absolute;
+}
+#slider6 .sliderArrows .prev{
+	display: none;
+}
+#slider6 .sliderArrows .next{
+	display: none;
+}
+#slider7{
+	float: left;
+	width: 474px;
+	height: 292px;
+	clear: both;
+	position: relative;
+	overflow: hidden;
+}

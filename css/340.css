@@ -1,0 +1,119 @@
+h1 {
+    font-size: 2em;
+    color: #fff;
+    text-align: center;
+	margin-bottom: 216px;
+	}
+	.adres {
+		height: 111px;
+		float: right;
+		font-size: 16px;
+		line-height: 6px;
+	}		
+	.resume_container .left,
+	.section_content .resume_container h3,
+	.resume_container .resume_icon {
+		text-align: left;
+		margin-bottom: 27px;
+	}
+	.resume_container .left h3 {
+		margin-top: 0;
+	}
+	.s_butic h3{
+		font-size: 17px;
+	}
+	section h2 {
+    font-size: 15px;
+    margin: -40px 0 1px;
+	}	
+	.jeverlybox img{
+		display: none;
+	}
+	.circle{
+	display: none;
+	}
+	.text1{
+		position: absolute;
+		left: 25px;
+	top: -658px;
+	}
+	.text2{
+		position: absolute;
+		left: 51px;
+		top: -600px;
+	}
+	.text3{
+		position: absolute;
+		left: 50px;
+		top: -545px;
+	}
+	.text4{
+		position: absolute;
+		left: 48px;
+		top: -468px;
+	}
+	.text5{
+		position: absolute;
+		left: 47px;
+		top: -412px;
+	}
+	.images-circle{
+		height: 100px;
+	}
+	.row-ticet{
+		padding-bottom: 22px;
+	}
+	.row-ticet p {    
+    font-size: 12px;
+    line-height: 5px;
+	}
+	.resume_container .resume_item { 	
+	width: 300px;
+	height: 118px;
+	float: left; 
+	} 
+	.resume_container .resume_item p{
+	font-size: 12px;
+	}
+	.next {
+    right: 55px;
+	}
+	.slider {    
+    width: 800px;
+	}
+	#slider4,#slider5 {    
+    width: 284px;
+	}
+	#rows {
+    max-width: 650px;
+	}
+	#rows p{
+	font-size: 14px;
+	line-height: 12px;
+	}
+	.resume_container h2 {    
+    margin: 638px 0 15px;
+	font-size: 16px;
+	}
+	.s_resume .row-ticet p {    
+    font-size: 13px;
+	}
+	.resume_container .right {   
+    margin: 183px 0 173px;
+	}
+	#larisa{
+		width:95%;
+	}
+	.romb{
+		padding: 5px;
+	width: 300px;
+	margin-left: -37px;
+	}
+	.romb p{
+	font-size: 14px;
+	line-height: 12px;
+	}
+	.contacts{
+	margin-left: -38px;
+	max-width: 310px;
+	}

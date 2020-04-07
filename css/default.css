@@ -1,0 +1,93 @@
+/* ------ Стили для mobilyslider
+-----------------------------------------------*/
+
+#content {
+width:800px;
+margin:100px auto 0;
+}
+
+.slider {
+float:left;
+width: 720px;
+height: 692px;
+position:relative;
+padding-bottom:26px;
+/*background:url(../gfx/bottom_shadow.png) no-repeat bottom center;*/
+}
+
+.sliderContent {
+float:left;
+width: 720px;
+height: 692px;
+clear:both;
+position:relative;
+overflow:hidden;
+}
+
+.sliderArrows a {
+display:block;
+text-indent:-9999px;
+outline:none;
+z-index:50;
+/*background-image:url(../gfx/prev_next.png);*/
+width:52px;
+height:50px;
+position:absolute;
+top:50%;
+margin-top:-34px;
+}
+
+.prev {
+background-position:0 0;
+left:-27px;
+background-image:url(../gfx/arrow-left.png);
+}
+
+/*.prev:hover {
+background-position:0 -44px;
+}*/
+
+.next {
+right:-25px;
+background-position:-49px 0;
+background-image:url(../gfx/arrow-right.png);
+}
+
+/*.next:hover {
+background-position:-44px -44px;
+}*/
+
+.sliderContent .item {
+position:absolute;
+width:800px;
+height:350px;
+/*background:#fff;*/
+}
+
+.sliderBullets {
+position:absolute;
+bottom:0;
+left:50%;
+z-index:50;
+margin-left:-45px;
+}
+
+.sliderBullets a {
+display:block;
+float:left;
+text-indent:-9999px;
+outline:none;
+margin-left:5px;
+width:10px;
+height:11px;
+background:url(../gfx/bullets.png) no-repeat;
+}
+
+.sliderBullets .active {
+background-position:0 -11px;
+}
+
+.sliderContent a {
+outline:none;
+}
+
