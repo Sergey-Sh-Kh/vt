@@ -1,1 +1,1 @@
-3 Посмотреть шаблон можно по ссылке https://sergey-sh-kh.github.io/vt/
+Посмотреть шаблон можно по ссылке https://sergey-sh-kh.github.io/vt/
